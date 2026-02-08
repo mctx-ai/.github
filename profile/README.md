@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://mctx.ai/brand/logo-purple.png" alt="mctx" width="400" />
 
-  **Free MCP Hosting. Reach the Growing MCP Ecosystem. Get Paid.**
+  **Free MCP Hosting. One-Click Publish to the Growing MCP Ecosystem. Set Your Price. Get Paid.**
 </div>
 
 ---
@@ -14,7 +14,7 @@ mctx is a hosted MCP server platform with built-in developer monetization. Conne
 
 - **Free MCP Hosting** — Deploy your MCP servers at no cost. We handle infrastructure, scaling, and uptime.
 - **Distribution** — One-click publish to the MCP Community Registry and GitHub registries. Reach developers building with Claude and other AI tools.
-- **Get Paid** — Earn revenue from subscriptions. You keep 80%, we take 20% and handle the rest.
+- **Set Your Price. Get Paid.** — Earn revenue from subscriptions. You keep 80%, we take 20% and handle the rest.
 
 ## Getting Started
 
