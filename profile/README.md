@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://mctx.ai/brand/logo-purple.png" alt="mctx" width="400" />
 
-  **Free MCP Hosting. One-Click Publish to the Growing MCP Ecosystem. Set Your Price. Get Paid.**
+**Free MCP Hosting. Set Your Price. Get Paid. One-Click Publish to the Growing MCP Ecosystem.**
+
 </div>
 
 ---
